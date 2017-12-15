@@ -26,7 +26,6 @@ HOW TO USE
   market from Poloniex and resample them to 3 daily candles
 """
 
-
 pair = 'BTC_ETH'                # MARKET_TICKER
 timeframe = 60*5                # 5 minute candles
 end = time.time()               # From now
